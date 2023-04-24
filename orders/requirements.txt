@@ -1,0 +1,14 @@
+Django~=3.2.9
+pytz
+djangorestframework~=3.12.4
+django-rest-passwordreset
+psycopg2-binary
+requests~=2.26.0
+PyYAML~=6.0
+ujson~=4.2.0
+celery~=5.2.1
+redis~=3.5.3
+pytest~=6.2.5
+drf-spectacular
+model_bakery
+gunicorn
